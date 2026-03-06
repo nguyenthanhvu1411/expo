@@ -1,5 +1,5 @@
 // config/api.js
-export const API_HOST = "http://10.17.3.62:8000";   
+export const API_HOST = "http://192.168.1.12:8000";
 export const API_BASE = `${API_HOST}/api`;
 
 export const storageUrl = (path) => {
